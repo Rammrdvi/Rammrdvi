@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a dedicated web developer with over 9 years of
 
 ## 🌟 About Me
 
-- 🎓 **Current Role:** PHP Web Developer at Pamz3D Designs Private India Ltd.
+- 🎓 **Current Role:** PHP Full Stack Web Developer at Pamz3D Designs Private India Ltd.
 - ⏰ **Working Hours:** 8:30 am to 6:30 pm (Lunch: 1 pm to 2 pm) (Monday to saturday)
 - 🌱 **Currently Learning:** MERN Stack, Ionic, Angular
 - 🚀 **Future Plans:** Launching [Infomaasiv](http://infomaasiv.com) to provide cutting-edge digital marketing and development services.
