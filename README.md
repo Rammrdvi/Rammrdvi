@@ -69,6 +69,18 @@ Welcome to my GitHub profile! I'm a dedicated web developer with over 9 years of
 
 ---
 
+## 🧩 Problem Solving Skills
+
+- **GeeksforGeeks:** [My GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/ramji1604/)
+- **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/Ramji1604/))
+
+<p>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-1F9D6F?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  <img src="https://img.shields.io/badge/LeetCode-FE4F55?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 I'm eager to collaborate on exciting projects or explore new ideas. Feel free to reach out!
