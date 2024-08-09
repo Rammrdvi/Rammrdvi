@@ -91,8 +91,8 @@ For professional inquiries, feel free to reach out to me:
 
 - **Phone:** 📞 +91 95978-96676 (Please use this number for professional contacts only)
 - **Email:** [ramji1604@gmail.com](mailto:ramji1604@gmail.com), [infomaasiv@gmail.com](mailto:infomaasiv@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ramji-m-9a257110b/)
-- **Twitter:** [Your Twitter Handle](https://x.com/ramji160435238)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ramji-m-9a257110b/)
+- **Twitter:** [Twitter Handle](https://x.com/ramji160435238)
 
 ---
 
