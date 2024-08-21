@@ -8,8 +8,6 @@ Welcome to my GitHub profile! I'm a dedicated web developer with over 9 years of
 
 - 🎓 **Current Role:** PHP Web Developer at Pamz3D Designs Private India Ltd.
 - 🌱 **Currently Learning:** MERN Stack, Ionic, Angular , AWS, AZURE
-- 🚀 **Future Plans:** Launching [Infomaasiv](http://infomaasiv.com) to provide cutting-edge digital marketing and development services.
-
 ---
 
 ## 💼 Professional Skills
