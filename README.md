@@ -87,8 +87,8 @@ I'm eager to collaborate on exciting projects or explore new ideas. Feel free to
 For professional inquiries, feel free to reach out to me:
 
 - **Phone:** 📞 +91 95978-96676 (Please use this number for professional contacts only)
-- **Email:** [ramji1604@gmail.com](mailto:ramji1604@gmail.com), [infomaasiv@gmail.com](mailto:infomaasiv@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ramji-m-9a257110b/)
+- **Email:** [ramji1604@gmail.com](mailto:ramji1604@gmail.com), [ramji1604.rm@gmail.com](mailto:ramji1604.rm@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rammrdvi/)
 - **Twitter:** [Twitter Handle](https://x.com/ramji160435238)
 
 ---
