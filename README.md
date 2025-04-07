@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a dedicated web developer with over 9 years of
 
 ## 🌟 About Me
 
-- 🎓 **Current Role:** Project Manager at AIRIE India Private Ltd.
+- 🎓 **Current Role:** Senior Sofware developer at AIRIE India Private Ltd.
 - 🌱 **Currently Learning:** MERN Stack, Ionic, Angular , AWS, AZURE
 ---
 
